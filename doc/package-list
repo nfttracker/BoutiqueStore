@@ -1,0 +1,12 @@
+com.mascene.BoutiqueStore
+com.mascene.api.request
+com.mascene.api.response
+com.mascene.boutiquestore
+com.mascene.dao
+com.mascene.dao.impl
+com.mascene.entities
+com.mascene.repository
+com.mascene.services
+com.mascene.services.impl
+com.mascene.ui
+com.mascene.utilities
